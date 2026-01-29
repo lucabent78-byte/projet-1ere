@@ -142,11 +142,11 @@ export const DubaiPage: React.FC = () => {
               <div className="space-y-4 text-sm text-slate-600">
                  <p>
                     <strong className="text-slate-900 block mb-1">Monarchie Absolue Fédérale :</strong> 
-                    Dubaï est dirigé par la famille Al Maktoum. Le pouvoir est centralisé et vertical ("Top-Down"). Les décisions d'urbanisme sont prises rapidement par l'Émir.
+                    Dubaï est dirigé par la famille Al Maktoum. Le pouvoir est centralisé. Les décisions de construction sont prises rapidement par l'Émir.
                  </p>
                  <p>
                     <strong className="text-slate-900 block mb-1">Vision 2040 :</strong> 
-                    Une planification stratégique imposée pour maintenir la compétitivité mondiale, sans opposition politique majeure freinant les grands projets.
+                    Une planification stratégique imposée pour maintenir la compétitivité mondiale
                  </p>
               </div>
               <div className="h-40 bg-slate-50 rounded-xl relative overflow-hidden border border-slate-100">
