@@ -115,7 +115,7 @@ export const DubaiPage: React.FC = () => {
             </h2>
             <ul className="space-y-3 text-sm text-slate-300">
               <li className="flex items-start gap-2">
-                <Anchor className="w-4 h-4 mt-0.5 shrink-0" />
+                <Anchor className="w-5 h-5 mt-0.5 shrink-0" />
                 <span><strong className="text-white">Jebel-ali :</strong> Hub international majeur.</span>
               </li>
             </ul>
