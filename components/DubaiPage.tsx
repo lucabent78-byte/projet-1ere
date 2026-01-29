@@ -2,7 +2,6 @@ import React from 'react';
 import { 
   MapPin, 
   TrendingUp, 
-  Plane, 
   Anchor, 
   DollarSign, 
   Crown
