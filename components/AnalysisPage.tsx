@@ -12,7 +12,7 @@ export const AnalysisPage: React.FC = () => {
           Comparaison Critique
         </h1>
         <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-          Deux modèles de développement urbain diamétralement opposés.
+          Deux modèles de développement urbain opposés.
         </p>
       </div>
 
@@ -35,7 +35,7 @@ export const AnalysisPage: React.FC = () => {
               <div className="p-6 flex-1">
                  <h3 className="font-bold text-lg mb-2 text-blue-600">Dubaï : La course au ciel</h3>
                  <p className="text-slate-600 text-sm">
-                    Une ville d'objets iconiques verticaux. La rareté du sol n'est pas le moteur (il y a du désert), mais la volonté de <strong>visibilité mondiale</strong>. Le paysage est dominé par le Burj Khalifa (828m) et une forêt de tours le long de la Sheikh Zayed Road.
+                    Une ville verticale.Le paysage est dominé par le Burj Khalifa (828m) et une forêt le long de la Sheikh Zayed Road.
                  </p>
               </div>
            </div>
@@ -51,7 +51,7 @@ export const AnalysisPage: React.FC = () => {
               <div className="p-6 flex-1">
                  <h3 className="font-bold text-lg mb-2 text-red-600">Zurich : L'échelle humaine</h3>
                  <p className="text-slate-600 text-sm">
-                    Une ville horizontale. La réglementation stricte (plans de zones) et la volonté de préserver les cônes de vue sur le lac et les Alpes limitent la hauteur. Les rares tours (Prime Tower) sont l'exception, pas la règle.
+                    Une ville horizontale. La réglementation stricte et la volonté de préserver la vue sur le lac et les Alpes limitent la hauteur. Les rares tours (Prime Tower) sont des exceptions à la règle.
                  </p>
               </div>
            </div>
@@ -79,7 +79,7 @@ export const AnalysisPage: React.FC = () => {
                     <AlertTriangle size={16} /> En construction permanente
                  </div>
                  <p className="text-slate-600 text-sm">
-                    Le paysage est marqué par l'omniprésence des grues. La ville est en perpétuel devenir, avec des quartiers entiers sortant du sable en quelques années (ex: Creek Harbour). C'est l'esthétique de l'inachèvement rapide.
+                    Le paysage est marqué par l'omniprésence des grues. La ville est en perpétuel développement, avec des quartiers entiers sortant du sable en quelques années (ex: Creek Harbour). 
                  </p>
               </div>
            </div>
@@ -97,7 +97,7 @@ export const AnalysisPage: React.FC = () => {
                     <CheckCircle2 size={16} /> Stabilité & Rénovation
                  </div>
                  <p className="text-slate-600 text-sm">
-                    Pas de chantiers pharaoniques. On rénove, on transforme (friches industrielles), mais on ne démolit pas le centre. Le paysage semble "fini", stable et apaisé, privilégiant la pérennité sur la nouveauté.
+                    Pas de chantiers aussi importants. On rénove, on transforme mais on ne démolit pas le centre. Le paysage semble "fini", stable , privilégiant la solidité
                  </p>
               </div>
            </div>
@@ -148,7 +148,7 @@ export const AnalysisPage: React.FC = () => {
               <div className="p-6 flex-1">
                  <h3 className="font-bold text-lg mb-2 text-emerald-600">Zurich : Tissu Homogène</h3>
                  <p className="text-slate-600 text-sm">
-                    Il n'y a pas de "quartiers pauvres" ou de bidonvilles. Grâce à une politique sociale forte et aux coopératives d'habitation, la mixité est réelle. Le standard de logement est élevé partout, créant un paysage urbain socialement continu sans rupture violente.
+                    Il n'y a pas de "quartiers pauvres" ou de bidonvilles. Le standard de logement est élevé partout, créant un paysage urbain socialement continu sans grosse rupture.
                  </p>
               </div>
            </div>
