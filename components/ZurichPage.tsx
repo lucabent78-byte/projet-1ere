@@ -25,7 +25,7 @@ export const ZurichPage: React.FC = () => {
       <header className="space-y-2">
         <h1 className="text-4xl font-bold text-slate-900">Zurich, Suisse</h1>
         <p className="text-lg text-slate-600 max-w-2xl">
-          L'incarnation de la stabilité historique. Une métropole gérée par le consensus démocratique.
+          L'incarnation de la stabilité historique.
         </p>
       </header>
 
@@ -39,7 +39,7 @@ export const ZurichPage: React.FC = () => {
           </div>
           <div className="prose text-slate-600 mb-2">
             <p className="mb-2">
-              <strong className="text-slate-900">Situation :</strong> Située au cœur de l'Europe, au nord de la Suisse. Ville lacustre à l'extrémité nord du lac de Zurich, traversée par la Limmat.
+              <strong className="text-slate-900">Situation :</strong> Située au cœur de l'Europe, au nord de la Suisse. Ville à l'extrémité nord du lac de Zurich, traversée par la Limmat.
             </p>
             <p>
               <strong className="text-slate-900">Cadre :</strong> Un environnement contraint par la topographie (collines, lac) qui limite naturellement l'étalement urbain, contrairement au désert ouvert de Dubaï.
@@ -140,7 +140,7 @@ export const ZurichPage: React.FC = () => {
               <div className="space-y-4 text-sm text-slate-600">
                  <p>
                     <strong className="text-slate-900 block mb-1">Démocratie Directe :</strong> 
-                    Zurich fonctionne selon un système fédéral (Suisse). Le pouvoir est horizontal ("Bottom-Up"). Les citoyens votent sur les projets d'urbanisme majeurs.
+                    Zurich fonctionne selon un système fédéral (Suisse). Les citoyens votent sur les projets d'urbanisme majeurs.
                  </p>
                  <p>
                     <strong className="text-slate-900 block mb-1">Consensus :</strong> 
