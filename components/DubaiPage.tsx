@@ -116,7 +116,7 @@ export const DubaiPage: React.FC = () => {
             <ul className="space-y-3 text-sm text-slate-300">
               <li className="flex items-start gap-2">
                 <Plane className="w-4 h-4 mt-0.5 shrink-0" />
-                <span><strong className="text-white">DXB :</strong> Hub international majeur.</span>
+                <span><strong className="text-white">Jebel-ali :</strong> Hub international majeur.</span>
               </li>
             </ul>
           </div>
